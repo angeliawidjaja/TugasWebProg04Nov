@@ -1,6 +1,7 @@
-Tugas Kelompok 04 November 2021
+Tugas Kelompok 04 November 2021  
+Kelas LE01 - LEC  
 
-Anggota Kelompok:
+Anggota Kelompok:  
 2301893985 - Gabrielle Angelica
 2301880080 - Winer Wijaya
 2301854492 - Angelia
